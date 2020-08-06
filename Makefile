@@ -15,5 +15,5 @@ main.o: main.cpp
 clean:                 
 	    rm *.o
 
-#g++ -pthread -g -rdynamic main.cpp.o -o 123 -Wl,-rpath,/usr/local/lib: libmapd_sample_thrift.a -lboost_system -lboost_program_options -lboost_regex -ldl /usr/local/lib/libthrift.so -larrow
-#g++ -I/usr/local/cuda/include -I/home/dotgg/IMing/omniscidb/build -c toOmnisci.h
+
+
